@@ -1,0 +1,30 @@
+h1 {
+    color:black;
+    background-color: rgb(174, 172, 189);
+    border-radius: 90px;
+    width: 250px; height: 150;
+  }
+  h1 {
+      transform: translate(20px, 10px);
+      transform: scale(1);
+       }
+body{
+   background: linear-gradient(red,blue,green,black,white,purple,pink,orange,yellow,gray,gold,brown)
+
+}
+      p{
+        background-color: rgb(197, 99, 18);
+border-radius: 90px;
+width: 700px; height: 150px;
+
+      }
+@font-face {
+  font-family:'NomsodDemo' ;
+  src: url(NomsodDemo.ttf);
+}
+
+body{
+  font-family: 'NomsodDemo';
+  
+font-size: 50px;
+}
